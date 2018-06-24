@@ -17,6 +17,7 @@ end
 
 This will output `I have found the Time Machine!` an infinite number of times in your Terminal. Use `Control`+`C` to break out of the loop in your terminal.
 
+j
 ## Instructions
 
 This is the first in a series of short exercises to help you get the hang of looping constructs. 
